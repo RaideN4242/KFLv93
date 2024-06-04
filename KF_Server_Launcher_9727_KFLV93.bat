@@ -10,7 +10,7 @@ set _gameLog=.\logs\%_servBat%.log
 
 :: server command line
 
-set _gameCmd=ucc server KF-Anschar.rom?game=KFLv93.KFLGameType?VACSecured=true?Mutator=KFLv93.MutLoader?MaxPlayers=6?AdminName=raiden?AdminPassword=anythingadmin?ini=KillingFloorKFLV93_9727.ini -nolog
+set _gameCmd=ucc server KF-Anschar.rom?game=KFLv93.KFLGameType?VACSecured=true?Mutator=KFLv93.MutLoader?MaxPlayers=6?AdminName=raiden4242?AdminPassword=password?ini=KillingFloorKFLV93_9727.ini -nolog
 set _gameCmd=%_gameCmd% -log=%_gameLog%
 
 echo ::
