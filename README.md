@@ -6,7 +6,7 @@ https://kf-dz.ru/downloads/KFLv93.zip
 
 http://109.195.103.47:7710/KFLv93.zip
 
-IP: 109.195.103.47:9727
+IP in game: 109.195.103.47:9727
 
 Credits:
 
