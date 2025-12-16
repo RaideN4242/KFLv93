@@ -1,43 +1,60 @@
-Killing Floor Legion v93
+# Killing Floor Legion v93
 
-Full server + source download here (12gb):
+![Killing Floor Legion](https://img.shields.io/badge/Version-v93-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Multiplayer](https://img.shields.io/badge/Game-Killing%20Floor-blue)
 
-https://kf-dz.ru/downloads/KFLv93.zip
+Полная сборка сервера Killing Floor Legion v93 с исходным кодом.
 
-http://109.195.103.47:7710/KFLv93.zip
+## 📥 Скачивание
 
-IP in game: 109.195.103.47:9727
+**Полная версия сервера + исходный код (12 ГБ):**
 
-Credits:
+- **Основная ссылка:** https://kf-dz.ru/downloads/KFLv93.zip
+- **Альтернативная ссылка:** http://109.195.103.47:7710/KFLv93.zip
 
-Freak
+## 🎮 Подключение к серверу
 
-Eskarn
+**IP-адрес для игры:**
 
-Entangler
+109.195.103.47:9727
 
-Hoshikudaki formerly known as lilaznkilla
 
-Sorrow
+## 📋 Список изменений (классы: ServerStStats.uc, ServerPerksMut.uc, ClientPerkRepLink.uc, SRHumanPawn.uc)
 
-Saffire
+### 🔧 Исправления
+- **Исправлена** загрузка перков в лобби
+- **Исправлен** баг когда SentryBot телепортировался в игрока после закрытия магазина и убивал его "killed by Telefragged"
 
-Sol_Invictus
+### ✨ Добавления
+- **Добавлена** новая версия [RespawnMut](https://github.com/RaideN4242/KF-RespawnMut)
 
-Odyyside
+### ⚖️ Баланс
+- **Перебалансирован** перк "MachineGunner"
 
-Candlejack
+## 👥 Авторы и благодарности
 
-xProvidence
+### Основные разработчики:
+- **Freak**
+- **Eskarn**
+- **Entangler**
+- **Hoshikudaki** (ранее известный как lilaznkilla)
+- **Sorrow**
+- **Saffire**
+- **Sol_Invictus**
+- **Odyyside**
+- **Candlejack**
+- **xProvidence**
+- **Monkey D.Luffy**
+- **Ray**
+- **McBlackjack**
 
-Monkey D.Luffy
+### Сообщество:
+- **KFL Community**
+- **Killing Floor community**
 
-Ray
+### Исправления и поддержка:
+- **RaideN-**
+- **[WSB]**
 
-McBlackjack
-
-KFL Community
-
-Killing Floor community
-
-Fixed by RaideN- and [WSB]
+---
