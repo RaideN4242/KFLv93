@@ -11,7 +11,7 @@
 **Полная версия сервера + исходный код (12 ГБ):**
 
 - **Основная ссылка:** https://kf-dz.ru/downloads/
-- **Альтернативная ссылка:** http://109.195.103.47:7710/KFLv93.zip
+- **Альтернативная ссылка:** http://87.224.213.71:7710/KFLv93.zip
 
 Последних исправлений в архиве нет. Самостоятельно обновите классы классы: ServerStStats.uc, ServerPerksMut.uc, ClientPerkRepLink.uc, SRHumanPawn.uc, RespawnMut.uc из архива "KFLv93.7z" и перекомпилируйте KFLv93.u
 
@@ -19,7 +19,7 @@
 
 **IP-адрес для игры:**
 
-109.195.103.47:9727
+87.224.213.71:9727
 
 
 ## 📋 Список изменений (классы: ServerStStats.uc, ServerPerksMut.uc, ClientPerkRepLink.uc, SRHumanPawn.uc)
