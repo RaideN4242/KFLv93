@@ -19,7 +19,7 @@
 
 **IP-адрес для игры:**
 
-87.224.213.71:9727
+185.65.201.74:9727
 
 
 ## 📋 Список изменений (классы: ServerStStats.uc, ServerPerksMut.uc, ClientPerkRepLink.uc, SRHumanPawn.uc)
